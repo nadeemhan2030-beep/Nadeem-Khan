@@ -1,0 +1,6 @@
+{
+  "name": "Atelier & Co. E-Commerce Store",
+  "description": "A luxury e-commerce online shopping experience featuring curated lifestyle products, user authentication, interactive shopping cart, and a full-featured payment system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
